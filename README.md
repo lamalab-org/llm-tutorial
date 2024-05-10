@@ -1,4 +1,4 @@
-# LLM Tutorial: Transformers for Chemistry and Materials Science
+# Transformers for Chemistry and Materials Science
 
 _Using transformers to transform chemistry_ 
 
@@ -7,6 +7,8 @@ _Using transformers to transform chemistry_
     <img src="_static/transformer_chem.png", width=400, class='center'>
 </p>
 </div>
+
+In these tutorials, we will build some key pieces for recent applications of transformers, in particular LLMs, in chemistry and materials science from scratch.
 
 ## Setup 
 
@@ -43,6 +45,8 @@ In addition, the major cloud providers provide free credits to students:
 ## Further reading
 
 These tutorials are based on blog post originally published on [Kevin Jablonka's blog](https://kjablonka.com/index.html#category=llm). There you can also find solutions for the unfilled cells.
+
+- [arxiv-synth](https://github.com/globus-labs/arxiv-synth/blob/main/arxiv-synth.ipynb): Shows how to retrieve papers from ArXiv and summarize them using an LLM
 
 ## Acknowledgements
 
