@@ -34,6 +34,17 @@ In addition, the major cloud providers provide free credits to students:
 - [Google Vertex AI](https://cloud.google.com/generative-ai-studio) - A suite of AI and machine learning APIs provided by Google Cloud. $150 credits upon signup
 - [Azure AI Studio](https://azure.microsoft.com/en-us/products/ai-studio) - A collection of AI services and APIs offered by Microsoft Azure. Students start with $100 free Azure credits 
 
+### API Keys
+
+Some parts assume that you have access to an LLM using an API key. We recommend using [OpenAI](https://platform.openai.com/), but you can also choose other providers such as 
+
+- [Groq](https://platform.openai.com/)
+- [Other providers linked in Litellm's README](https://github.com/BerriAI/litellm)
+
+Make sure to add the API key(s) to an `.env` file. You can see an example in the `.env.template` file. 
+
+```bash
+
 ## Notebooks
 
 | Notebook | Description | Colab |
