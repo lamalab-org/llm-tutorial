@@ -3,7 +3,9 @@
 _Using transformers to transform chemistry_ 
 
 <div style="text-align:center">
+<p align="center" width="100%">
     <img src="_static/transformer_chem.jpeg", width=300, class='center'>
+</p>
 </div>
 
 ## Setup 
