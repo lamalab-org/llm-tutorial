@@ -1,6 +1,8 @@
 # LLM Tutorial: Transformers for Chemistry and Materials Science
 
-<div>
+_Using transformers to transform chemistry_ 
+
+<div style="text-align:center">
     <img src="_static/transformer_chem.jpeg", width=300, class='center'>
 </div>
 
@@ -38,7 +40,7 @@ In addition, the major cloud providers provide free credits to students:
 
 ## Further reading
 
-These tutorials are based on blog post originally published on [Kevin Jablonka's blog](https://kjablonka.com/index.html#category=llm).
+These tutorials are based on blog post originally published on [Kevin Jablonka's blog](https://kjablonka.com/index.html#category=llm). There you can also find solutions for the unfilled cells.
 
 ## Acknowledgements
 
