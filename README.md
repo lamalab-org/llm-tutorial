@@ -43,7 +43,7 @@ Some parts assume that you have access to an LLM using an API key. We recommend 
 
 Make sure to add the API key(s) to an `.env` file. You can see an example in the `.env.template` file. 
 
-```bash
+
 
 ## Notebooks
 
